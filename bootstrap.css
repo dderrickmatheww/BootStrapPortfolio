@@ -1,0 +1,90 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#col1 {
+    background: #4aaaa5;
+    padding: 40px 65px 0px 40px;
+    border-bottom: 2px solid #ccc;
+    
+    
+    
+}
+#col2 {
+    border-bottom: 2px solid #ccc;
+
+}
+
+#carbo {
+    text-decoration: none;
+    color: #4aaaa5;
+    border: #ccc;
+    padding-bottom: 0%;
+    margin-top: 20%;
+    text-align: center;
+    
+
+}
+
+#col3 {
+    padding-right: 0;
+    
+}
+
+#me {
+    height: 100%;
+    width: 100%;
+    border: 2px solid #ccc;
+}
+
+.container {
+    margin-top: 5%;
+    border: 2px solid #ccc;
+    padding: 2%;
+    
+}
+
+.name {
+    background: white;
+    border: 2px solid #ccc;
+    padding: 2%;
+    float: right;
+    font-size: 20px;
+    color: #4aaaa5;
+    text-shadow: 0.05px 0.05px 0.05px #000000;
+    
+
+}
+
+
+#col4 {
+background: #4aaaa5;
+border-top: 2px solid #ccc;
+padding: 40px 65px 0px 40px;
+margin-top: 5%;
+
+}
+
+#aboutme {
+    border-bottom: 2px solid #ccc;
+
+}
+#row1 {
+    
+    padding-bottom: 3%;
+    color: #4aaaa5;
+    text-shadow: 0.05px 0.05px 0.05px #000000;
+}
+
+#col5 {
+    background: #4aaaa5;
+    border-top: 2px solid #ccc;
+    padding: 40px 65px 0px 40px;
+    margin-top: 10%;
+}
+
+#form1 {
+    padding: 3%;
+    width: 100%;
+    height: 100%;
+}
